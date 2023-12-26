@@ -166,6 +166,15 @@ int main() {
 				lastY = event.mouseMove.y;
 				sf::Mouse::setPosition(centerWindow, window);
 				painter.state.camera.processMouseMovement(xoffset, yoffset);
+				if (abs(xoffset) > 10) {
+					deltaTiltTime = titlClock.getElapsedTime().asSeconds();
+					if (xoffset > 0) {
+						painter.shipTilt += glm::pi<float>() / 100;
+					}
+					else {
+						painter.shipTilt -= glm::pi<float>() / 100;
+					}
+				}
 			}
 
 			if (event.type == sf::Event::KeyPressed) {
@@ -197,8 +206,10 @@ int main() {
 			}
 		}
 
-		if (titlClock.getElapsedTime().asSeconds() - deltaTiltTime > 0.1) {
-			painter.shipTilt *= 0.85;
+		//painter.state.camera.position += painter.state.camera.front * 0.1f;
+
+		if (titlClock.getElapsedTime().asSeconds() - deltaTiltTime > 0.2) {
+			painter.shipTilt *= 0.80;
 		}
 
 

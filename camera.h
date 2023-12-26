@@ -29,7 +29,7 @@ public:
     }
 
     glm::mat4 getViewMatrix() const {
-        return glm::lookAt(getOffsetPosition(), position + front * 0.5f, up);
+        return glm::lookAt(getOffsetPosition(), position, worldUp);
     }
 
     glm::mat4 getProjectionMatrix() const {
