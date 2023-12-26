@@ -1,0 +1,11 @@
+Model Information:
+* title:	Low Poly Snowspeeder Star wars
+* source:	https://sketchfab.com/3d-models/low-poly-snowspeeder-star-wars-43b5fb4fa68346289bea9430c5fb30c9
+* author:	tolotedesign (https://sketchfab.com/tolotedesign)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Low Poly Snowspeeder Star wars" (https://sketchfab.com/3d-models/low-poly-snowspeeder-star-wars-43b5fb4fa68346289bea9430c5fb30c9) by tolotedesign (https://sketchfab.com/tolotedesign) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	At-At Walker (star wars) low poly
+* source:	https://sketchfab.com/3d-models/at-at-walker-star-wars-low-poly-719c023782fb4bb9898d15f9e3fcee6b
+* author:	Ret.ouchs (https://sketchfab.com/ret.ouchs)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "At-At Walker (star wars) low poly" (https://sketchfab.com/3d-models/at-at-walker-star-wars-low-poly-719c023782fb4bb9898d15f9e3fcee6b) by Ret.ouchs (https://sketchfab.com/ret.ouchs) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

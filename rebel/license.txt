@@ -1,0 +1,8 @@
+Model Information:
+* title:	Star Wars Rebel Technician (rigged)
+* source:	https://sketchfab.com/3d-models/star-wars-rebel-technician-rigged-a0d4d80dad1e43d6b4ab1d78e79b2898
+* author:	tegnemaskin (https://sketchfab.com/tegnemaskin)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

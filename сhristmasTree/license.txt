@@ -1,0 +1,11 @@
+Model Information:
+* title:	Christmas tree
+* source:	https://sketchfab.com/3d-models/christmas-tree-3e8624186f3f406faa6cb4d6e25aca2c
+* author:	Lennis_Humpydump (https://sketchfab.com/Lennis_Humpydump)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Christmas tree" (https://sketchfab.com/3d-models/christmas-tree-3e8624186f3f406faa6cb4d6e25aca2c) by Lennis_Humpydump (https://sketchfab.com/Lennis_Humpydump) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
